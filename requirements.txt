@@ -1,3 +1,4 @@
 googletrans
 feedparser
 pandas
+deep-translator
